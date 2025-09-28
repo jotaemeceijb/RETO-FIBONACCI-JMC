@@ -52,4 +52,5 @@ El reporte se genera en [`reportes/test-report.html`](reportes/test-report.html)
 
 ## Autor
 
+Jonathan Mejia
 Proyecto para el diplomado de automatización de pruebas.
